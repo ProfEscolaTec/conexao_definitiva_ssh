@@ -1,5 +1,5 @@
 
 
-print("Tudo certo com a conexão da chave SSH")
 
-print("O git push -u origin main funcionou sem intervenções")
+
+print("O git push funcionou sem intervenções na conexão da chave SSH")
